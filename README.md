@@ -1,4 +1,6 @@
 # TextUtils WebAPP
+![image](https://user-images.githubusercontent.com/57688017/131479718-6dcdaf7e-f47c-4778-b3b0-1a14d8703b49.png)
+![image](https://user-images.githubusercontent.com/57688017/131479798-2caed423-7ce9-4491-ad61-c6863cf89c62.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
